@@ -218,7 +218,6 @@ line-height: 23px;
 
 
 color: #323643;
-  
 }
 
 .re{
@@ -702,4 +701,8 @@ background: #E1E3E8;
 
 BODY{
     margin: 0px;
+}
+
+input{
+    border-style: none;
 }
