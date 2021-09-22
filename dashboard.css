@@ -1,0 +1,440 @@
+BODY{
+    margin:0;
+}
+
+.tres{
+position: absolute;
+width: 375px;
+height: 813px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(313.78deg, #2855AE -3.15%, #7292CF 100%);
+}
+
+.parrafo{
+ position: absolute;
+width: 123px;
+height: 38px;
+left: 16px;
+top: 30px;
+
+font-family: Source Sans Pro;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 38px;
+/* identical to box height, or 127% */
+
+
+color: #FFFFFF;
+
+
+}
+
+.parrafo_2{
+position: absolute;
+width: 170px;
+height: 23px;
+left: 16px;
+top: 97px;
+
+font-family: Source Sans Pro;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 23px;
+/* identical to box height, or 128% */
+
+
+color: #FFFFFF;
+
+mix-blend-mode: normal;
+opacity: 0.61;
+}
+
+.parrafo_3{
+position: absolute;
+width: 61px;
+height: 18px;
+left: 28px;
+top: 152px;
+
+font-family: Source Sans Pro;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height, or 129% */
+
+
+color: #6184C7;
+
+}
+
+.parrafo_3{
+position: absolute;
+width: 84px;
+height: 24px;
+left: 16px;
+top: 140px;
+border-radius: 1rem 1rem 1rem 1rem;
+
+background: #FFFFFF;
+}
+
+.cuadrito_blanco{
+position: absolute;
+width: 375px;
+height: 1058px;
+left: 0px;
+top: 296px;
+border-top-left-radius: 2rem;
+border-top-right-radius: 2rem;
+
+
+background: #FFFFFF;
+
+}
+
+.cuadrito_1{
+position: absolute;
+width: 163px;
+height: 202px;
+top: 210px;
+left: 16px;
+z-index:1; 
+border-radius: 1rem 1rem 1rem 1rem;
+border: 1px solid #5278C1;
+
+
+background: #FFFFFF;
+
+
+}
+
+.cuadrito_2{
+    position: absolute;
+width: 163px;
+height: 202px;
+left: 196px;
+top: 210px;
+background: black; 
+z-index: 1;
+border-radius: 1rem 1rem 1rem 1rem;
+border: 1px solid #5278C1;
+
+background: #FFFFFF;
+}
+
+.iman{
+position: absolute;
+top: 18px;
+left: 17px; 
+}
+
+.pepa{
+
+position: absolute;
+width: 103;
+height: 43px;
+left: 20px;
+top: 55px;
+
+font-family: 'Bebas Neue', cursive;
+font-size: 40px;
+line-height: 43px;
+/* identical to box height, or 107% */
+
+
+color: #202020;
+
+
+}
+
+.iman_2{
+position: absolute;
+top: 18px;
+left: 17px; 
+}
+
+.pepa_2{
+    position: absolute;
+width: 103;
+height: 43px;
+left: 20px;
+top: 55px;
+
+font-family: 'Bebas Neue', cursive;
+font-size: 40px;
+line-height: 43px;
+/* identical to box height, or 107% */
+
+}
+.j{
+position: absolute;
+width: 77px;
+height: 20px;
+left: 20px;
+top: 130px;
+
+font-family: Source Sans Pro;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height, or 125% */
+
+
+color: #777777;
+
+}
+
+.j_2{
+    position: absolute;
+width: 77px;
+height: 20px;
+left: 20px;
+top: 130px;
+
+font-family: Source Sans Pro;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height, or 125% */
+
+
+color: #777777;
+}
+
+.uno{
+position: absolute;
+width: 163px;
+height: 132px;
+left: 16px;
+top: 140px;
+border-radius: 1rem 1rem 1rem 1rem;
+
+background: #F5F6FC;
+}
+
+.rompe{
+position: absolute;
+width: 103;
+height: 43px;
+left: 20px;
+top: 15px;
+
+}
+
+.pe{
+position: absolute;
+width: 70px;
+height: 23px;
+left: 20px;
+top: 60px;
+
+font-family: 'Bebas Neue', cursive;
+font-family: 'Source Sans Pro', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 23px;
+/* identical to box height, or 128% */
+
+
+color: #000000;
+
+
+}
+.dos{
+position: absolute;
+width: 163px;
+height: 132px;
+left: 196px;
+top: 140px;
+border-radius: 1rem 1rem 1rem 1rem;
+
+background: #F5F6FC;
+}
+.nene{
+position: absolute;
+width: 103;
+height: 43px;
+left: 20px;
+top: 15px;  
+}
+
+.pi{
+    position: absolute;
+
+height: 23px;
+left: 20px;
+top: 60px;
+border-radius: 1rem 1rem 1rem 1rem;
+
+font-family: 'Bebas Neue', cursive;
+font-family: 'Source Sans Pro', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 23px;
+/* identical to box height, or 128% */
+
+
+color: #000000;
+}
+
+.tr{
+position: absolute;
+width: 163px;
+height: 132px;
+left: 16px;
+top: 289px;
+border-radius: 1rem 1rem 1rem 1rem;
+
+background: #F5F6FC;
+}
+
+.l{
+position: absolute;
+width: 103;
+height: 43px;
+left: 20px;
+top: 15px;  
+}
+
+.loki{
+position: absolute;
+height: 23px;
+left: 20px;
+top: 60px;
+border-radius: 1rem 1rem 1rem 1rem;
+
+font-family: 'Bebas Neue', cursive;
+font-family: 'Source Sans Pro', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 23px;
+/* identical to box height, or 128% */
+
+
+color: #000000;
+}
+
+.cuatro{
+position: absolute;
+width: 163px;
+height: 132px;
+left: 196px;
+top: 289px;
+border-radius: 1rem 1rem 1rem 1rem;
+
+background: #F5F6FC;
+}
+
+.cinco{
+position: absolute;
+width: 163px;
+height: 132px;
+left: 16px;
+top: 440px;
+border-radius: 1rem 1rem 1rem 1rem;
+
+background: #F5F6FC;
+}
+
+.seis{
+position: absolute;
+width: 163px;
+height: 132px;
+left: 196px;
+top: 440px;
+border-radius: 1rem 1rem 1rem 1rem;
+
+background: #F5F6FC;
+}
+
+.siete{
+position: absolute;
+width: 163px;
+height: 132px;
+left: 16px;
+top: 590px;
+border-radius: 1rem 1rem 1rem 1rem;
+
+background: #F5F6FC;
+}
+
+.ocho{
+position: absolute;
+width: 163px;
+height: 132px;
+left: 196px;
+top: 590px;
+border-radius: 1rem 1rem 1rem 1rem;
+
+background: #F5F6FC;
+}
+
+.nueve{
+position: absolute;
+width: 163px;
+height: 132px;
+left: 16px;
+top: 740px;
+border-radius: 1rem 1rem 1rem 1rem;
+
+background: #F5F6FC; 
+}
+
+.dies{
+position: absolute;
+width: 163px;
+height: 132px;
+left: 196px;
+top: 740px;
+border-radius: 1rem 1rem 1rem 1rem;
+
+background: #F5F6FC;  
+}
+
+.once{
+position: absolute;
+width: 163px;
+height: 132px;
+left: 16px;
+top: 890px;
+border-radius: 1rem 1rem 1rem 1rem;
+
+background: #F5F6FC;  
+}
+
+.doce{
+position: absolute;
+width: 163px;
+height: 132px;
+left: 196px;
+top: 890px;
+border-radius: 1rem 1rem 1rem 1rem;
+
+background: #F5F6FC;   
+}
+
+.estare{
+position: absolute;
+width: 333.42px;
+height: 62.45px;
+left: 18px;
+top: 160.99px;
+}
+
+.ciru{
+    position: absolute;
+width: 62px;
+height: 62px;
+left: 297px;
+top: 89px;
+}
