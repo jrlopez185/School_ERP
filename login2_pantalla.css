@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.login{
+    width: 100%;
+}
+
+.imagen_1{
+    top: 200px;
+    left: 300px;
+}
+
+h2{
+    top: 330px;
+    left: 410px;
+}
+
+p{
+    top: 370px;
+    left: 410px;
+}
+
+.cuadro{
+    top: 110px;
+    left: 700px;
+    border-radius: 2rem 2rem 2rem 2rem;
+}
+
+.palabra_3{
+    top: 260px;
+    left: 730px;
+}
+
+.hola_4{
+    top: 290px;
+    left: 730px;
+    /*background-color: red;*/
+}
+
+.nino_2{
+    top: 340px;
+    left: 730px;
+}
+
+button{
+    top: 400px;
+    left: 770px;
+}
+
+.pepe{
+    top: 20px;
+}
+
+.hola_5{
+    top: 490px;
+    left: 880px;
+}

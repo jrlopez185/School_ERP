@@ -1,0 +1,175 @@
+.login{
+position: absolute;
+width: 375px;
+height: 812px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(313.78deg, #2855AE -3.15%, #7292CF 100%);
+}
+
+.imagen_1{
+position: absolute;
+width: 294.59px;
+height: 131.37px;
+left: 64.13px;
+top: 67.4px;
+}
+
+h2{
+    position: absolute;
+width: 156px;
+height: 48px;
+left: 30px;
+top: 222px;
+
+font-family: SourceSansPro;
+font-size: 34px;
+line-height: 48px;
+/* identical to box height, or 141% */
+
+
+color: #FFFFFF;
+
+}
+
+p{
+    position: absolute;
+width: 156px;
+height: 25px;
+left: 30px;
+top: 274px;
+
+font-family: Source Sans Pro;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 25px;
+/* identical to box height, or 125% */
+
+
+color: #FFFFFF;
+
+mix-blend-mode: normal;
+opacity: 0.61;
+}
+
+.cuadro{
+position: absolute;
+width: 375px;
+height: 483px;
+left: 0px;
+top: 329px;
+border-top-left-radius: 10%;
+border-top-right-radius: 10%;
+
+background: #FFFFFF;
+}
+
+.palabra_2{
+    position: absolute;
+width: 110px;
+height: 115px;
+left: 30px;
+top: 37px;
+
+font-family: Source Sans Pro;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height, or 125% */
+
+
+color: #A5A5A5;
+
+}
+
+input{
+position: absolute;
+left: 30px;
+top: 75px;
+border-style: none;
+}
+
+.nino{
+position: absolute;
+width: 315px;
+height: 1px;
+left: 30px;
+top: 125px;
+
+background: #E1E3E8
+}
+
+.palabra_3{
+    position: absolute;
+width: 110px;
+height: 115px;
+left: 30px;
+top: 500px;
+color:black;
+
+font-family: Source Sans Pro;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 15px; 
+}
+
+.hola_4{
+    position: absolute;
+left: 30px;
+top: 550px;
+color:black;
+
+font-family: Source Sans Pro;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 15px;
+Outline: none
+}
+
+.nino_2{
+   position: absolute;
+width: 315px;
+height: 1px;
+left: 30px;
+top: 600px;
+
+background: #E1E3E8 
+}
+
+button{
+    position: absolute;
+width: 250px;
+height: 65px;
+background: linear-gradient(35.54deg, #2855AE -7.25%, #7292CF 90.75%);
+color:#fff;
+left: 60px;
+top: 650px;
+border-radius: 1rem 1rem 1rem 1rem;
+border-style: none;
+}
+
+.pepe{
+color: #FFFFFF;
+text-align: center;
+left: 45px;
+top: 0px;
+}
+
+.hola_5{
+color: #313131;
+position: absolute;
+width: 140px;
+height: 1px;
+left: 170px;
+top: 710px;
+
+background: #E1E3E8 
+}
+
+
+
