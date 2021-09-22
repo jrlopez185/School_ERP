@@ -1,0 +1,205 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.unoa{
+      width: 100%;  
+    }
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.white{
+    /*background-color: red;*/
+    width: 1100px;
+    height: 788px;
+    left: 110px;
+    border-radius: 2rem 2rem 2rem 2rem;
+}
+
+.cuad{
+    width:500px;
+    left: 295px;
+}
+
+.camaras{
+    left:450px; 
+}
+
+.ne{
+    left: 450px;
+}
+
+.na{
+    left: 700px;
+}
+
+.ni{
+    left: 450px;
+}
+
+.re{
+    left: 700px;
+}
+
+.one{
+    left: 450px;
+}
+
+.tho{
+    left: 700px;
+}
+
+.three{
+    left: 450px;
+}
+
+.for{
+    left: 700px;
+}
+
+.five{
+    left: 450px;
+}
+
+.six{
+    left: 700px;
+}
+
+.holas{
+    left: 600px;
+}
+
+.holass{
+    left: 850px;
+}
+
+.onee{
+    left: 450px;
+}
+
+.thoo{
+    left: 700px;
+}
+
+.seven{
+    left: 450px;
+}
+
+.nine{
+    left: 700px;
+}
+
+.once{
+    left: 450px;
+}
+
+.doce{
+    left: 700px;
+}
+
+.h{
+    left: 600px;
+}
+
+.ho{
+    left: 850px;
+}
+
+.oneee{
+    left: 450px;
+}
+
+.thooo{
+    left: 700px;
+}
+
+.or{
+    left: 450px;
+}
+
+.or_2{
+    left: 450px;
+}
+
+.dado{
+    left: 850px;
+}
+
+.one_2{
+    left: 450px;
+    width: 415px;
+}
+
+.ulti{
+    left: 450px;
+}
+
+.ulti_2{
+    left: 450px;
+}
+
+.dado_3{
+    left: 850px;
+}
+
+.ulti_3{
+    left: 450px;
+    width: 415px;
+}
+
+.penulti{
+    left: 450px;
+}
+
+.penulti_2{
+    left: 450px;
+}
+
+.dado_4{
+    left: 850px;
+}
+
+.nl{
+    left: 450px;
+    width: 415px;
+}
+
+.ultima{
+    left: 450px;
+}
+
+.ultimas{
+    left: 450px;
+}
+
+.ultin{
+    left: 450px;
+    width: 415px;
+}
+
+.dado_5{
+    left: 850px;
+}
+
+.imagen_star{
+    left: 450px;
+    top: 200px;
+}
+
+.My{
+    color: transparent;
+}
+
+.pa{
+    color: transparent;
+    background-color: transparent;
+}
+
+.regre{
+    left: 200px;
+    top: 300px;
+}
