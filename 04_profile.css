@@ -704,5 +704,19 @@ BODY{
 }
 
 input{
+    width: 160px;
     border-style: none;
+   font-family: Source Sans Pro;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 23px;
+/* identical to box height, or 125% */
+
+
+color: #323643;
+}
+
+.or_2 input{
+    width: 200px;
 }
