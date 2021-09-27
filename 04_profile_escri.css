@@ -1,205 +1,139 @@
-*{
-    margin: 0;
-    padding: 0;
-}
-
-.unoa{
-      width: 100%;  
-    }
-
-body{
-    margin: 0px;
-    padding: 0px;
-}
-
-.white{
-    /*background-color: red;*/
-    width: 1100px;
-    height: 788px;
-    left: 110px;
-    border-radius: 2rem 2rem 2rem 2rem;
-}
-
-.cuad{
-    width:500px;
-    left: 295px;
-}
-
-.camaras{
-    left:450px; 
-}
-
-.ne{
-    left: 450px;
-}
-
-.na{
-    left: 700px;
-}
-
-.ni{
-    left: 450px;
-}
-
-.re{
-    left: 700px;
-}
-
-.one{
-    left: 450px;
-}
-
-.tho{
-    left: 700px;
-}
-
-.three{
-    left: 450px;
-}
-
-.for{
-    left: 700px;
-}
-
-.five{
-    left: 450px;
-}
-
-.six{
-    left: 700px;
-}
-
-.holas{
-    left: 600px;
-}
-
-.holass{
-    left: 850px;
-}
-
-.onee{
-    left: 450px;
-}
-
-.thoo{
-    left: 700px;
-}
-
-.seven{
-    left: 450px;
-}
-
-.nine{
-    left: 700px;
-}
-
-.once{
-    left: 450px;
-}
-
-.doce{
-    left: 700px;
-}
-
-.h{
-    left: 600px;
-}
-
-.ho{
-    left: 850px;
-}
-
-.oneee{
-    left: 450px;
-}
-
-.thooo{
-    left: 700px;
-}
-
-.or{
-    left: 450px;
-}
-
-.or_2{
-    left: 450px;
-}
-
-.dado{
-    left: 850px;
-}
-
-.one_2{
-    left: 450px;
-    width: 415px;
-}
-
-.ulti{
-    left: 450px;
-}
-
-.ulti_2{
-    left: 450px;
-}
-
-.dado_3{
-    left: 850px;
-}
-
-.ulti_3{
-    left: 450px;
-    width: 415px;
-}
-
-.penulti{
-    left: 450px;
-}
-
-.penulti_2{
-    left: 450px;
-}
-
-.dado_4{
-    left: 850px;
-}
-
-.nl{
-    left: 450px;
-    width: 415px;
-}
-
-.ultima{
-    left: 450px;
-}
-
-.ultimas{
-    left: 450px;
-}
-
-.ultin{
-    left: 450px;
-    width: 415px;
-}
-
-.dado_5{
-    left: 850px;
-}
-
-.imagen_star{
-    left: 450px;
-    top: 200px;
-}
-
-.My{
-    color: transparent;
-}
-
-.pa{
-    color: transparent;
-    background-color: transparent;
-}
-
-.regre{
-    left: 200px;
-    top: 300px;
-}
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="04_profile.css">
+    <link rel="stylesheet" href="04_profile_escri.css" media="(min-width:900px)">
+    <link rel="stylesheet" href="04_profile_tableta.css" media="(min-width:768px)">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Source+Sans+Pro&display=swap" rel="stylesheet">
+   <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@700&display=swap" rel="stylesheet">
+   <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,700;1,700&display=swap" rel="stylesheet">
+   <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,300;0,700;1,300;1,700&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@1,900&display=swap" rel="stylesheet">
+    <title>Document</title>
+</head>
+<body>
+   <div class="unoa">
+       <img class="imagen_star" src="img/star_pattern.png">
+       
+       <img class="regre" src="img/back.png">
+       
+       <p class="My">My profile</p>
+       <p class="pa"><img class="d" src="img/checked.png"> DONE</p>
+       
+       <div class="white">
+           <div class="cuad">
+               <img class="gris" src="img/bg.png">
+               <p class="par">Akshay Syal</p>
+               
+               <p class="par_2">Class XI-B | Roll no: 04</p>
+               
+               <img class="camaras" src="img/camera-2.png">
+           </div>
+       </div>
+       
+       <p class="ne">Adhar No</p>
+       <p class="na">Academic Year</p>
+       <label class="ni">
+                <input type="text" placeholder="">
+       </label>
+       <label class="re">
+                <input type="text" placeholder="">
+       </label>
+       
+       <div class="one"></div>
+       <div class="tho"></div>
+       
+       <p class="three">Admission Class</p>
+       <p class="for">Old Admission No</p>
+       <label class="five">
+                <input type="text" placeholder="">
+       </label>
+       <label class="six">
+                <input type="text" placeholder="">
+       </label>
+       <img class="holas" src="img/lock.png">
+       <img class="holass" src="img/lock.png">
+       
+        <div class="onee"></div>
+       <div class="thoo"></div>
+       
+       <p class="seven">Date of Admission</p>
+       <p class="nine">Date of Birth</p>
+       <label class="once">
+                <input type="text" placeholder="">
+       </label>
+       <label class="doce">
+                <input type="text" placeholder="">
+       </label>
+       
+       <img class="h" src="img/lock.png">
+       <img class="ho" src="img/lock.png">
+       
+       <div class="oneee"></div>
+       <div class="thooo"></div>
+       
+       <p class="or">Parent Mail ID</p>
+       <label class=or_2>
+                <input type="text" placeholder="">
+       </label>
+       <img class="dado" src="img/lock.png">
+       
+       <div class="one_2"></div>
+       
+       <p class="ulti">Mother Name</p>
+       <label class="ulti_2">
+                <input type="text" placeholder="">
+       </label>
+       
+       <div class="ulti_3"></div>
+       
+       <img class="dado_3" src="img/lock.png">
+       
+       <div class="penulti">Father Name</div>
+       
+       <label class="penulti_2">
+                <input type="text" placeholder="">
+       </label>
+       
+       <img class="dado_4" src="img/lock.png">
+       
+       <div class="nl"></div>
+       
+       <p class="ultima">Parmanent Add.</p>
+       <label class="ultimas">
+                <input type="text" placeholder="">
+       </label>
+       
+       <div class="ultin"></div>
+       
+       <img class="dado_5" src="img/lock.png">
+   </div>
+</body>
+</html>
