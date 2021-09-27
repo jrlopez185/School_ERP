@@ -23,8 +23,8 @@ height: 48px;
 left: 30px;
 top: 222px;
 
-font-family: SourceSansPro;
-font-size: 34px;
+font-family: 'Source Sans Pro', sans-serif;
+font-size: 30px;
 line-height: 48px;
 /* identical to box height, or 141% */
 
@@ -32,6 +32,8 @@ line-height: 48px;
 color: #FFFFFF;
 
 }
+
+
 
 p{
     position: absolute;
@@ -158,6 +160,10 @@ color: #FFFFFF;
 text-align: center;
 left: 45px;
 top: 0px;
+ font-family: SourceSansPro;
+font-family: 'Source Sans Pro', sans-serif;
+font-size: 20px;
+
 }
 
 .hola_5{
