@@ -24,8 +24,7 @@ Indice
 - Anteportada
 - Indice
 - Objetivos
-- Glosario HTML y CSS
-- Home page
+- Wifreams
 - Objetivos Futuros
 
 
