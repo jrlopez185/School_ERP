@@ -35,6 +35,7 @@ width: 180px;
 height: 48px;
 left: 29px;
 top: 80px;
+    opacity: 200%;
     
 font-family: 'Source Sans Pro', sans-serif;
 font-size: 200%;
@@ -158,18 +159,18 @@ background: #323643;
 width: 314.68px;
 height: 1px;
 left: 30px;
-top: 410px;
+top: 390px;
 
 background: #E1E3E8;
 }
 
 button{
 position: absolute;
-width: 300px;
-height: 55px;
+width: 320px;
+height: 60px;
 background: linear-gradient(35.54deg, #2855AE -7.25%, #7292CF 90.75%);
 color:#fff;
-left: 40px;
+left: 30px;
 top: 450px;
 border-radius: 1rem 1rem 1rem 1rem;
 border-style: none;
