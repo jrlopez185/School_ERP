@@ -4,8 +4,11 @@
 }
 
 .cuadrito_blanco{
-    width: 800px;
-    left: 250px;
+    left: 130px;
+    width: 1100px;
+    height: 650px;
+    /*width: 800px;*/
+    /*left: 250px;*/
     border-radius: 2rem 2rem 2rem 2rem;
 }
 
@@ -14,9 +17,10 @@
     left: 300px;
 }
 
+
 .cuadrito_2{
     width: 300px;
-    left: 700px;
+    left: 790px;
 }
 
 .iman{
@@ -24,51 +28,61 @@
 }
 
 .uno{
-    left: 220px;
+    left: 200px;
 }
 
 .dos{
-    left: 430px;
+    left: 400px;
 }
 
 .tr{
-    left: 220px;;
+    top: 140px;
+    left: 600px;;
 }
 
 .cuatro{
-    left: 430px;
+    top: 140px;
+    left: 800px;
 }
 
 .cinco{
-    left: 220px;
+    top: 300px;
+    left: 200px;
 }
 
 .seis{
-    left: 430px;
+    top: 300px;
+    left: 400px;
 }
 
 .siete{
-    left: 220px;
+    top: 300px;
+    left: 600px;
 }
 
 .ocho{
-    left: 430px;
+    top: 300px;
+    left: 800px;
 }
 
 .nueve{
-    left: 220px;
+    top: 460px;
+    left: 200px;
 }
 
 .dies{
-    left: 430px;
+    top: 460px;
+    left: 400px;
 }
 
 .once{
-    left: 220px;
+    top: 460px;
+    left: 600px;
 }
 
 .doce{
-    left: 430px;
+    top: 460px;
+    left: 800px;
 }
 
 .estare{
