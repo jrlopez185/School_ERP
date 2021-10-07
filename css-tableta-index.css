@@ -1,0 +1,20 @@
+@media screen and (min-width: 768px){
+    .color_De_fondo{
+    width: 768px;
+    height: 1024px;
+}
+}
+
+@media screen and (min-width: 768px){
+    .Imagen1{
+        left: 330px;
+    }
+    
+    .Imagen2{
+        left: 320px;
+    }
+    
+    .Imagen3{
+        left: 200px;
+    }
+}

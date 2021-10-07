@@ -1,0 +1,67 @@
+@media screen and (min-width: 768px){
+    .login{
+        width: 768px;
+        height: 1024px;
+    }
+    
+    .imagen_1{
+        left: 170px;
+        width: 400px;
+        height: 230px;
+    }
+    
+    .lais{
+        top: 250px;
+        left: 200px;
+    }
+    
+    .lals{
+        top: 310px;
+        left: 200px;
+    }
+    
+    .cuadro{
+        width: 500px; 
+        top: 380px;
+        left: 140px;
+    }
+    
+    .palabra_2{
+        width: 140px;
+        font-size: 15px
+    }
+    
+    .nino{
+        opacity: 100%;
+        width: 400px;
+    }
+    
+    .palabra_3{
+        z-index: 1;
+        top: 530px;
+        left:170px; 
+        font-size: 15px;
+    }
+    
+    .hola_4{
+        top: 560px;
+        left: 170px;
+    }
+    
+    .nino_2{
+        top: 615px;
+        left: 170px;
+        opacity: 100%;
+        width: 400px; 
+    }
+    
+    button{
+        top: 650px;
+        left: 225px;
+    }
+    
+    .hola_5{
+        top: 710px;
+        left: 425px;
+    }
+}
